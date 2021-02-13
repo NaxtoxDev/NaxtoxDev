@@ -16,8 +16,6 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NaxtoxDev&locale=en&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaxtoxDev&locale=en&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
